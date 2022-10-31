@@ -1,2 +1,2 @@
-# posindustry
-POS Industry FZCO - HTML Development
+# POS Industry FZCO
+HTML Development
